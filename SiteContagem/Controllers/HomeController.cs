@@ -28,7 +28,7 @@ namespace SiteContagem.Controllers
                 TempData["Local"] = _CONTADOR.Local;
                 TempData["Kernel"] = _CONTADOR.Kernel;
                 TempData["TargetFramework"] = _CONTADOR.TargetFramework;
-                TempData["MensagemFixa"] = "Teste";
+                TempData["MensagemFixa"] = "Charles Ollavo - anp-aluno-8";
                 TempData["MensagemVariavel"] = configuration["MensagemVariavel"];
             }            
 
